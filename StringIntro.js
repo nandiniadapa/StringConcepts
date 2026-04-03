@@ -1,10 +1,10 @@
 document.getElementById("btnSubmit").addEventListener("click",function(){
     debugger;
-   var firstname=document.getElementById("txtfirstname").value
+   var Firstname=document.getElementById("txtFirstname").value
    var Lastname=document.getElementById("txtLastname").value
    var Email=document.getElementById("txtEmail").value
     
-   alert(firstname);
+   alert(Firstname);
    alert(Lastname);
    alert(Email);
 });
