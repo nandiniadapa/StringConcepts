@@ -7,4 +7,5 @@ document.getElementById("btnSubmit").addEventListener("click",function(){
    alert(Firstname);
    alert(Lastname);
    alert(Email);
+   alert( Firstname + '  '+ Lastname + '  ' +Email);
 });
