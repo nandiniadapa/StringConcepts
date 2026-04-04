@@ -7,5 +7,4 @@ document.getElementById("btnEmail").addEventListener("click", function(){
         document.getElementById("pResult").innerHTML="Login failed.please check your email.";
     }
 });
-
     
