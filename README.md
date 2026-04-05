@@ -9,3 +9,4 @@ STRING-a group of characters is called string (or)
  string intoductions
  created a string array linking with js
  created a string case conversions linking with js
+created a string comparison linking with js
