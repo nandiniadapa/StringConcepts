@@ -7,3 +7,5 @@ STRING-a group of characters is called string (or)
  
  string array concepts
  string intoductions
+ created a string array linking with js
+ 
