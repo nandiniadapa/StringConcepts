@@ -11,3 +11,4 @@ STRING-a group of characters is called string (or)
  created a string case conversions linking with js
 created a string comparison linking with js
 created a string slice linking with js
+created a substring linking with js
