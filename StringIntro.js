@@ -12,5 +12,4 @@ document.getElementById("btnSubmit").addEventListener("click",function(){
 
    document.getElementById("pResult").innerHTML=`My First name is ${Firstname} , My Last name is ${Lastname } , My Email is ${Email} . `;
 
-
 });
