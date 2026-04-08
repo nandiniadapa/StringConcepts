@@ -15,3 +15,4 @@ created a substring linking with js
 created a string intro linking with js
 created a email comparison with js
 updated a README 
+revised all topics
