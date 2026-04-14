@@ -16,3 +16,6 @@ created a string intro linking with js
 created a email comparison with js
 updated a README 
 revised all topics and updTED
+# Arrays
+Array is a collection of data typess
+numbers ,booleans, arrays,objects
