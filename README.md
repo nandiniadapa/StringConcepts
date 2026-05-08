@@ -14,7 +14,7 @@ created a string slice linking with js
 created a substring linking with js
 created a string intro linking with js
 created a email comparison with js
-updated a README 
+updated a README __
 revised all topics and updTED
 # Arrays
 Array is a collection of data typess
