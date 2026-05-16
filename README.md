@@ -6,7 +6,7 @@ STRING-a group of characters is called string (or)
        collection of characters is called a stringss..
  
 # string array concepts
- string intoductions
+# string intoductions
  created a string array html linking with js
  created a string case conversions html  linking with js
 created a string comparison html  linking with js
