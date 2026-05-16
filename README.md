@@ -15,7 +15,7 @@ created a string slice linking with js
 created a string intro html linking with js
 created a email comparison with js
 updated a README __
-revised all topics and updTED
+#revised all topics and updTED
 # Arrays
 Array is a collection of data typess
 numbers ,booleans, arrays,objects
