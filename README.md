@@ -5,7 +5,7 @@ STRING-a group of characters is called string (or)
        sequence of characters is called a string (or)
        collection of characters is called a stringss..
  
- string array concepts
+# string array concepts
  string intoductions
  created a string array html linking with js
  created a string case conversions html  linking with js
