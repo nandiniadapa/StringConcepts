@@ -18,4 +18,4 @@ updated a README __
 #revised all topics and updTED
 # Arrays
 Array is a collection of data typess
-numbers ,booleans, arrays,objects
+numbers ,booleans, arrays,objects.
